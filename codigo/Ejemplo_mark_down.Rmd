@@ -1,5 +1,5 @@
 ---
-title: "Ejemplo"
+title: "Presentacion GIT"
 author: "Juan S Mármol Yahya"
 date: "20 de mayo de 2019"
 output: slidy_presentation
