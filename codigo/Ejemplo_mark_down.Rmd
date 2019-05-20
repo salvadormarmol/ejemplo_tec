@@ -33,3 +33,7 @@ summary(cars)
 plot(pressure)
 ```
 
+
+```{r pressure}
+print("Erik")
+```
